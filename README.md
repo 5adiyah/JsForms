@@ -6,7 +6,7 @@
 
 ## Setup
 
-Install Vacation Site by cloning this repository.
+Install Site by cloning this repository.
 To run cd into the folder and open index.html
 To view it Visit http://5adiyah.github.io/JsForms/
 
